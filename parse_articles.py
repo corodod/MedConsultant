@@ -3,7 +3,7 @@ import re
 import pickle
 from sentence_transformers import SentenceTransformer
 
-MODEL_NAME = 'cointegrated/rubert-tiny2'
+MODEL_NAME = 'sentence-transformers/paraphrase-multilingual-mpnet-base-v2'
 ARTICLES_DIR = 'articles'
 VECTOR_FILE = 'vectors.pkl'
 
@@ -24,8 +24,7 @@ def parse_articles():
         if name_match:
             name = name_match.group(1).strip()
             desc = desc_match.group(1).strip() if desc_match else ''
-            # embedding = model.encode(name)
-            embedding = model.encode("passage: " + name)
+            embedding = model.encode(name)  # просто название статьи
             articles_data.append({
                 'filename': filename,
                 'name': name,

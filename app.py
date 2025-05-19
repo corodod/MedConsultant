@@ -10,7 +10,6 @@ from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline
 from transformers import pipeline as question_answering_pipeline
 from transformers import pipeline
 
-
 app = FastAPI()
 # app.mount("/static", StaticFiles(directory="."), name="static")
 app.mount("/static", StaticFiles(directory="templates"), name="static")
@@ -23,7 +22,7 @@ embeddings = np.array([a['embedding'] for a in articles_data])
 filenames = [a['filename'] for a in articles_data]
 
 # Модель для эмбеддингов
-model_emb = SentenceTransformer('cointegrated/rubert-tiny2')
+model_emb = SentenceTransformer('sentence-transformers/paraphrase-multilingual-mpnet-base-v2')
 
 # слабая быстрая
 tokenizer = AutoTokenizer.from_pretrained("TinyLlama/TinyLlama-1.1B-Chat-v1.0")
@@ -42,21 +41,28 @@ pipe = pipeline("text-generation", model=model, tokenizer=tokenizer)
 
 @app.post("/query")
 async def query(request: Request):
+    print(">>> [LOG] Обработчик /query вызван")
     data = await request.json()
     user_query = data.get("query", "")
 
     # Шаг 1: Находим ближайшую статью
     query_emb = model_emb.encode(["query: " + user_query])
     similarities = cosine_similarity(query_emb, embeddings).flatten()
-    best_idx = np.argmax(similarities)
-    best_article = articles_data[best_idx]
+    top_k = 3
+    top_k_indices = similarities.argsort()[-top_k:][::-1]  # Топ-3 по убыванию
+    top_articles = [articles_data[idx] for idx in top_k_indices]
+    combined_context = "\n\n".join([a["desc"] for a in top_articles])
 
-    print(f"Выбранная статья: {best_article['name']}")
+    print("Топ-3 выбранные статьи:")
+    for idx, article in enumerate(top_articles, 1):
+        print(f"{idx}. {article['name']}")
+
 
     # Шаг 2: Извлекаем релевантный фрагмент из {{DESC}}
-    context = best_article['desc']
+    context = combined_context
     question_for_qa = "Какие вещества используются для получения ароматизатора клюквы, идентичного натуральному?"
 
+    print(">>> QA-пайп начинается")
     result = qa_pipe(question=question_for_qa, context=context)
     print(f"QA pipe результат: {result}")
 
@@ -74,10 +80,12 @@ async def query(request: Request):
 <|answer|>:
 """.strip()
 
+    print(">>> Начинается генерация ответа")
     # Шаг 4: Генерируем ответ
     response = pipe(
         extended_query,
-        max_new_tokens=200,
+        max_new_tokens=100,
+        temperature=0.7,
         truncation=True,
         return_full_text=False
     )[0]['generated_text']
