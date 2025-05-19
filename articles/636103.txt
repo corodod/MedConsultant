@@ -1,0 +1,83 @@
+{{XML_ID}}
+636103
+{{/XML_ID}}
+
+{{NAME}}
+Полезные рецепты с яблоками: на завтрак, обед, ужин и десерт
+{{/NAME}}
+
+{{DESC}}
+&lt;h2&gt;Рецепты для завтраков&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt;Яблочные ПП-вафли с клетчаткой&lt;/b&gt; &lt;/p&gt;
+&lt;ul&gt;
+&lt;p&gt;Вам понадобится:&lt;/p&gt;
+&lt;li&gt;1 среднее яблоко &#40;около 150-180 гр&#41; – можно взять 2, но не более&lt;/li&gt;
+&lt;li&gt;2 куриных яйца&lt;/li&gt;
+&lt;li&gt;1-1.5 столовых ложки кокосового или любого другого пригодного для жарки масла&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://fitomarket.ru/catalog/zdorovoe_pitanie/bakaleya/muka/muka_iz_zelenykh_bananov_500_g_polezzno/&quot;&gt;&lt;span style=&quot;color:#29004e;font-weight:bold; text-decoration: underline;&quot;&gt;Мука из зеленых бананов&lt;/span&gt;&lt;/a&gt; &lt;a href=&quot;https://fitomarket.ru/brands/polezzno/&quot;&gt;&lt;span style=&quot;color:#29004e;font-weight:bold; text-decoration: underline;&quot;&gt;polezzno&lt;/span&gt;&lt;/a&gt; – 130 гр&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://fitomarket.ru/catalog/zdorovoe_pitanie/bakaleya/kletchatka_2/klechatka_lnyanaya_180_gr_orgtium/&quot;&gt;&lt;span style=&quot;color:#29004e;font-weight:bold; text-decoration: underline;&quot;&gt;Клетчатка Оргтиум льняная&lt;/span&gt;&lt;/a&gt; – 50 гр&lt;/li&gt;
+&lt;li&gt;Ряженка или йогурт – 130 мл&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://fitomarket.ru/catalog/zdorovoe_pitanie/masla_sousy_i_spetsii/pripravy_i_spetsii/koritsa_tseylonskaya_molotaya_50_g_polezzno/&quot;&gt;&lt;span style=&quot;color:#29004e;font-weight:bold; text-decoration: underline;&quot;&gt;Корица молотая цейлонская polezzno&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Разрыхлитель 1 ч.л.&lt;/li&gt;
+&lt;li&gt;Подсластитель &lt;a href=&quot;https://fitomarket.ru/brands/fitparad/&quot;&gt;&lt;span style=&quot;color:#29004e;font-weight:bold; text-decoration: underline;&quot;&gt;FitParad&lt;/span&gt;&lt;/a&gt; или &lt;a href=&quot;https://fitomarket.ru/catalog/zdorovoe_pitanie/sakhar_i_sakharozameniteli/sakhar/kokosovyy_organicheskiy_sakhar_200_gr_fitfeel/&quot;&gt;&lt;span style=&quot;color:#29004e;font-weight:bold; text-decoration: underline;&quot;&gt;кокосовый сахар&lt;/span&gt;&lt;/a&gt; – по вкусу&lt;/li&gt;
+&lt;li&gt;Кокосовое масло&lt;a href=&quot;https://fitomarket.ru/brands/roi_thai/&quot;&gt;&lt;span style=&quot;color:#29004e;font-weight:bold; text-decoration: underline;&quot;&gt; Roi Thai&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Смешиваем все сухи компоненты отдельно, а жидкие – отдельно. Постепенно вводим жидкие в сухие и тщательно промешиваем. В конце добавляем тертое на мелкой терке яблоко. Если есть блендер, будет ещё лучше. Последовательность та же, а вот вкус будет более однородным и насыщенным.&lt;/p&gt;
+&lt;p&gt;Даем тесту отстояться 10-15 минут, нагреваем вафельницу и смазываем рабочую поверхность маслом. Теперь осталось выложить нашу смесь в вафельницу и приготовить вкусные и полезные вафли!&lt;/p&gt;&lt;br&gt;
+ &lt;br&gt;
+&lt;p&gt;&lt;b&gt;Яблочные ПП-оладьи без муки и сахара&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;p&gt;Эти оладушки также станут отличным вариантом для завтрака. Рецепт подойдёт тем, у кого нет вафельницы. Вам понадобится:&lt;/p&gt;
+&lt;li&gt;1-2 средних яблока&lt;/li&gt;
+&lt;li&gt;17-19 гр &lt;a href=&quot;https://fitomarket.ru/catalog/zdorovoe_pitanie/bakaleya/otrubi/podorozhnika_otrubi_180_gr_orgtium/&quot;&gt;&lt;span style=&quot;color:#29004e;font-weight:bold; text-decoration: underline;&quot;&gt;псиллиума Оргтиум&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;30 мл кефира или ряженки&lt;/li&gt;
+&lt;li&gt;2 куриных яйца&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://fitomarket.ru/catalog/zdorovoe_pitanie/sakhar_i_sakharozameniteli/sakharozamenitel_1_orgtium/&quot;&gt;&lt;span style=&quot;color:#29004e;font-weight:bold; text-decoration: underline;&quot;&gt;Подсластитель Оргтиум&lt;/span&gt;&lt;/a&gt; по вкусу&lt;/li&gt;
+&lt;li&gt;Разрыхлитель 1 ч.л&lt;/li&gt;
+&lt;li&gt;Кокосовое масло &lt;a href=&quot;https://fitomarket.ru/brands/roi_thai/&quot;&gt;&lt;span style=&quot;color:#29004e;font-weight:bold; text-decoration: underline;&quot;&gt;Roi Thai&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Псиллиум смешиваем с кефиром или ряженкой и даем набухнуть. Яблоки чистим и трем на мелкой терке, яйца взбиваем до однородности &#40;желательно, чтобы масса немного поднялась&#41; и вводим псиллиум, яблоки, подсластитель и разрыхлитель. Всё тщательно перемешиваем и даём тесту отстояться. Разогреваем сковородку, смазываем кокосовым маслом и начинаем выпекать оладушки. Лучше всего делать это, накрыв сковородку крышкой.&lt;/p&gt;&lt;br&gt;
+ &lt;br&gt;
+&lt;h2&gt;Рецепты для обеда&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt;Яблочный суп с индейкой или курицей&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;p&gt;Нежный, свежий, легкий и очень полезный супчик. Готовится быстро и подойдёт для всей семьи.&lt;/p&gt;
+&lt;p&gt;Вам понадобится:&lt;/p&gt;
+&lt;li&gt;Куриная грудка или 700 гр мяса голени/бедра индейки&lt;/li&gt;
+&lt;li&gt;Яблоки – 400 гр &#40;желательно брать кисло-сладкие&#41;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://fitomarket.ru/catalog/zdorovoe_pitanie/masla_sousy_i_spetsii/pripravy_i_spetsii/smes_sushenykh_ovoshchey_tri_luka_i_morkov_80_g_polezzno/&quot;&gt;&lt;span style=&quot;color:#29004e;font-weight:bold; text-decoration: underline;&quot;&gt;Смесь сушеных овощей «Три лука и морковь»&lt;/span&gt;&lt;/a&gt; из коллекции &lt;a href=&quot;https://fitomarket.ru/brands/piccante/&quot;&gt;&lt;span style=&quot;color:#29004e;font-weight:bold; text-decoration: underline;&quot;&gt;Piccanto&lt;/span&gt;&lt;/a&gt; от &lt;a href=&quot;https://fitomarket.ru/brands/polezzno/&quot;&gt;&lt;span style=&quot;color:#29004e;font-weight:bold; text-decoration: underline;&quot;&gt;polezzno&lt;/span&gt;&lt;/a&gt; – 2-3 столовых ложки&lt;/li&gt;
+&lt;li&gt;Любимые специи и приправы, а также соль&lt;/li&gt;
+&lt;li&gt;Киноа – 5-6 ст. ложек &#40;лучше взять &lt;a href=&quot;https://fitomarket.ru/catalog/zdorovoe_pitanie/bakaleya/krupy_1/kinoa_krasnaya_zerno_200_gr_produkty_xxii_veka/&quot;&gt;&lt;span style=&quot;color:#29004e;font-weight:bold; text-decoration: underline;&quot;&gt;киноа красное&lt;/span&gt;&lt;/a&gt; от &lt;a href=&quot;https://fitomarket.ru/brands/produkty_xxii_veka/&quot;&gt;&lt;span style=&quot;color:#29004e;font-weight:bold; text-decoration: underline;&quot;&gt;Продукты XXI века&lt;/span&gt;&lt;/a&gt;&#41;&lt;/li&gt;
+&lt;li&gt;Чеснок – 2 зубчика&lt;/li&gt;
+&lt;li&gt;Укроп и петрушка – если есть&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Промойте киноа, залейте 3-4 столовыми ложками горячей воды и оставьте набухать.&lt;/p&gt;
+&lt;p&gt;Курицу или индейку порежьте кубиками и отварите в 1.5 литре воды на сильном огне до кипения. Добавьте специи и соль, варите на среднем огне ещё 30 минут. Достаньте мясо из бульона и отложите в отдельную плошку.&lt;/p&gt;
+&lt;p&gt;Киноа, соль и специи положите в сковороду, залейте небольшим количеством бульона, добавьте смесь сушеных овощей от polezzno и тушите до полуготовности крупы. &lt;/p&gt;
+&lt;p&gt;Яблоки очистите от кожуры и сердцевинок, натрите на крупной терке, залейте 1 половником бульона и отварите в течение 5 минут на среднем огне в отдельной ёмкости.&lt;/p&gt;
+&lt;p&gt;В бульон положите пассированные овощи с киноа, варите на среднем огне 8-10 минут, затем добавьте курицу или индейку и яблоки и варите ещё 5-7 минут.&lt;/p&gt;
+&lt;p&gt;Нарежьте чеснок, укроп и петрушку &#40;примерно по 1/3 пучка, при желании можно взять больше&#41; и добавьте в суп. Накройте крышкой и дайте настояться.&lt;/p&gt;&lt;br&gt;
+ &lt;br&gt;
+&lt;p&gt;&lt;b&gt;Легкий яблочный салат с солеными огурцами&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;p&gt;Салат готовится быстро и просто, он легкий, полезный и богат клетчаткой.&lt;/p&gt;
+&lt;p&gt;Вам понадобится:&lt;/p&gt;
+&lt;li&gt;300 гр яблок&lt;/li&gt;
+&lt;li&gt;200 гр соленых огурцов&lt;/li&gt;
+&lt;li&gt;Любимая зелень или мелко нарезанные листья салата – 150-200 гр&lt;/li&gt;
+&lt;li&gt;Чеснок &#40;по желанию&#41; и любимые специи&lt;/li&gt;
+&lt;li&gt;Соль по вкусу&lt;/li&gt;
+&lt;li&gt;Ряженка или сметана низкой жирности&lt;/li&gt;
+&lt;li&gt;Соусы на выбор: с &lt;a href=&quot;https://fitomarket.ru/catalog/zdorovoe_pitanie/masla_sousy_i_spetsii/sousy_i_zapravki/tayskiy_mango_sous_285_ml_mae_ploy/&quot;&gt;&lt;span style=&quot;color:#29004e;font-weight:bold; text-decoration: underline;&quot;&gt;манго&lt;/span&gt;&lt;/a&gt; или с &lt;a href=&quot;https://fitomarket.ru/catalog/zdorovoe_pitanie/masla_sousy_i_spetsii/sousy_i_zapravki/tayskiy_sous_s_ananasom_285_ml_mae_ploy/&quot;&gt;&lt;span style=&quot;color:#29004e;font-weight:bold; text-decoration: underline;&quot;&gt;ананасом&lt;/span&gt;&lt;/a&gt; от &lt;a href=&quot;https://fitomarket.ru/brands/mae_ploy/&quot;&gt;&lt;span style=&quot;color:#29004e;font-weight:bold; text-decoration: underline&quot;&gt;MAE PLOY&lt;/span&gt;&lt;/a&gt;. Для любителей более острых блюд подойдет &lt;a href=&quot;https://fitomarket.ru/catalog/zdorovoe_pitanie/masla_sousy_i_spetsii/sousy_i_zapravki/sladkiy_chili_sous_200_ml_good_life/&quot;&gt;&lt;span style=&quot;color:#29004e;font-weight:bold; text-decoration: underline;&quot;&gt;сладкий чили соус&lt;/span&gt;&lt;/a&gt; &lt;a href=&quot;https://fitomarket.ru/brands/good_life/&quot;&gt;&lt;span style=&quot;color:#29004e;font-weight:bold; text-decoration: underline;&quot;&gt;GOOD LIFE&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;200 гр отварной куриной грудки или филе индейки&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Нарежьте мясо мелкими кубиками и отварите до готовности. Очистите яблоки и натрите на крупной терке, также натрите огурцы. Смешайте яблоки, огурцы и мясо.&lt;/p&gt;
+&lt;p&gt;В отдельной плошке подготовьте смесь из ряженки, специй, чеснока и соли. Соль нужно брать в меньшем объеме, поскольку в блюде уже есть соленые огурцы. В эту смесь добавьте один из рекомендованных соусов, он сделает вкус готового блюда более глубоким и необычным.&lt;/p&gt;
+ &lt;br&gt;
+&lt;p&gt;Надеемся, вам понравились эти простые и полезные рецепты. В следующей статье продолжим тему и расскажем о том, &lt;a href=&quot;https://fitomarket.ru/blog/novosti/yablochnyy_spas_legkie_i_poleznye_blyuda_iz_yablok_retsepty_ot_fitomarket/?lang=ru&quot;&gt;&lt;span style=&quot;color:#29004e;font-weight:bold; text-decoration: underline;&quot;&gt;что можно приготовить из яблок на ужин и на десерт.&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;img width=&quot;1000&quot; alt=&quot;Happybirthday.png&quot; src=&quot;/upload/medialibrary/aa6/п.jpg&quot;&nbsp;&nbsp;title=&quot;Happybirthday.png&quot;&gt;
+{{/DESC}}
+
+{{PRODUCTS_XML}}
+09838ba9-b10b-11ea-b786-005056bfe67d,1f3e8a73-1be9-11ea-b77f-005056bfe67d,1f3e8a74-1be9-11ea-b77f-005056bfe67d,1f3e8a75-1be9-11ea-b77f-005056bfe67d,1f3e8a76-1be9-11ea-b77f-005056bfe67d,34788f32-73fa-11ea-b786-005056bfe67d,34788f34-73fa-11ea-b786-005056bfe67d,34788f35-73fa-11ea-b786-005056bfe67d,356c3a03-596d-11ea-b786-005056bfe67d,356c3a0f-596d-11ea-b786-005056bfe67d,440ca210-1677-11ea-b77f-005056bfe67d,4cd7d835-c586-11e9-b77b-005056bfe67d,4cd7d847-c586-11e9-b77b-005056bfe67d,4cd7d849-c586-11e9-b77b-005056bfe67d,4d9587cb-f567-11e9-b77d-005056bfe67d,4d9587cc-f567-11e9-b77d-005056bfe67d,4d9587db-f567-11e9-b77d-005056bfe67d,52c915b2-c5a3-11e9-b77b-005056bfe67d,52c915b6-c5a3-11e9-b77b-005056bfe67d,63a66e00-ed5d-11e8-b74e-005056bfe67d,64e48fad-9da9-11e9-b76b-005056bfe67d,64e48fae-9da9-11e9-b76b-005056bfe67d,64e48faf-9da9-11e9-b76b-005056bfe67d,64e48fb0-9da9-11e9-b76b-005056bfe67d,64e48fb1-9da9-11e9-b76b-005056bfe67d,652ddc58-c5a3-11e9-b77b-005056bfe67d,66cb7edd-1677-11ea-b77f-005056bfe67d,66cb7ef8-1677-11ea-b77f-005056bfe67d,6bad65b5-c58d-11ea-b786-005056bfe67d,9cd5553e-1be9-11ea-b77f-005056bfe67d,9cd55540-1be9-11ea-b77f-005056bfe67d,9cd55543-1be9-11ea-b77f-005056bfe67d,9e980fe4-9128-11ea-b786-005056bfe67d,a8e7cfde-6b82-11eb-b789-005056bfe67d,a95c61ea-3b88-11ec-b796-005056bfe67d,af8919cb-3b88-11ec-b796-005056bfe67d,dfafa498-caa6-11e7-b732-005056bfe67d,dfafa499-caa6-11e7-b732-005056bfe67d,dfafa49a-caa6-11e7-b732-005056bfe67d,dfafa4a8-caa6-11e7-b732-005056bfe67d,ef799acc-cac5-11e7-b732-005056bfe67d
+{{/PRODUCTS_XML}}

@@ -1,0 +1,67 @@
+{{XML_ID}}
+29933
+{{/XML_ID}}
+
+{{NAME}}
+Американские бады и витамины: как выбрать и где купить?
+{{/NAME}}
+
+{{DESC}}
+&lt;h2&gt;&lt;span style=&quot;color: #00a650;&quot;&gt;Преимущества БАД и витаминов из Америки&lt;/span&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&nbsp;&nbsp;&nbsp;&nbsp;&lt;li&gt;Растительное сырье для продукции проходит тщательный отбор. Для этого используют дорогое современное оборудование: жидкостный и газовый хромотографы, цифровые металлодетекторы и пр.&lt;/li&gt;
+&nbsp;&nbsp;&nbsp;&nbsp;&lt;li&gt;Многие растительные компоненты стандартизированы, то есть содержание в них активного вещества измерено &#40;в граммах или процентах&#41;. Это означает, что действие американских БАД, выпущенных в разные смены и в разные дни, будет одинаковым.&lt;/li&gt;
+&nbsp;&nbsp;&nbsp;&nbsp;&lt;li&gt;Точные дозировки. На этикетке есть не просто список ингредиентов, а указано, сколько каждого из них присутствует в комплексе.&lt;/li&gt;
+&nbsp;&nbsp;&nbsp;&nbsp;&lt;li&gt;Витамины используются не синтетические, а натуральные. Их извлекают из природного сырья и включают в БАД вместе с биофлавоноидами – веществами, усиливающими эффект.&lt;/li&gt;
+&nbsp;&nbsp;&nbsp;&nbsp;&lt;li&gt;Все компоненты сложных комплексов тщательно подобраны, чтобы они приумножали действие друг друга и не конкурировали за способы усвоения организмом.&lt;/li&gt;
+&nbsp;&nbsp;&nbsp;&nbsp;&lt;li&gt;Высокое качество. Оно обусловлено серьезной конкуренцией на рынке БАД, давними традициями производства и культурой потребления биодобавок.&lt;/li&gt;
+&lt;/ul&gt;
+ &lt;br&gt;
+ &lt;img width=&quot;1000&quot; alt=&quot;Разбираемся в популярности американских биодобавок у россиян&quot; src=&quot;/upload/medialibrary/b79/b793067b402eac8e82b2c9d87af5ea8a.jpg&quot; height=&quot;333&quot; title=&quot;Разбираемся в популярности американских биодобавок у россиян&quot;&gt;&lt;br&gt;
+&lt;h2&gt;&lt;span style=&quot;color: #00a650;&quot;&gt;Список лучших производителей из США БАДов и витаминов&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;
+&nbsp;&nbsp;&nbsp;&nbsp; Среди многих компаний этой страны, выпускающих продукцию для здоровья, непревзойденным качеством и высокой эффективностью добавок отличаются следующие:
+&lt;/p&gt;
+&lt;ul&gt;
+&nbsp;&nbsp;&nbsp;&nbsp;&lt;li&gt;&lt;a href=&quot;https://fitomarket.ru/brands/solgar/&quot;&gt;&lt;span style=&quot;color: #00a650;&quot;&gt;&lt;b&gt;&lt;u&gt;Solgar&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;/a&gt; – витамины и добавки данной американской фирмы содержат максимальную концентрацию полезных веществ;&lt;/li&gt;
+&nbsp;&nbsp;&nbsp;&nbsp;&lt;li&gt;&lt;b&gt;&lt;a href=&quot;https://fitomarket.ru/brands/now/&quot;&gt;&lt;span style=&quot;color: #00a650;&quot;&gt;&lt;u&gt;NOW&lt;/u&gt;&lt;/span&gt;&lt;/a&gt;&lt;/b&gt; – выпускает продукцию не только для поддержания здоровья, но и для существенного улучшения физической формы;&lt;/li&gt;
+&nbsp;&nbsp;&nbsp;&nbsp;&lt;li&gt;&lt;b&gt;&lt;a href=&quot;https://fitomarket.ru/brands/bounty_natures/&quot;&gt;&lt;span style=&quot;color: #00a650;&quot;&gt;&lt;u&gt;NATURE&#39;S BOUNTY&lt;/u&gt;&lt;/span&gt;&lt;/a&gt;&lt;/b&gt; – товары этой компании нравятся любителям чередовать различные добавки, ведь практически все ее упаковки рассчитаны на курс 20–30 дней;&lt;/li&gt;
+&nbsp;&nbsp;&nbsp;&nbsp;&lt;li&gt;&lt;b&gt;&lt;a href=&quot;https://fitomarket.ru/brands/natrol/&quot;&gt;&lt;span style=&quot;color: #00a650;&quot;&gt;&lt;u&gt;NATROL&lt;/u&gt;&lt;/span&gt;&lt;/a&gt;&lt;/b&gt; – предлагает большие упаковки &#40;на 60–100 дней приема&#41;, что подходит активным сторонникам здорового образа жизни;&lt;/li&gt;
+&nbsp;&nbsp;&nbsp;&nbsp;&lt;li&gt;&lt;b&gt;&lt;a href=&quot;https://fitomarket.ru/brands/maxler/dobavki_i_vitaminy/&quot;&gt;&lt;span style=&quot;color: #00a650;&quot;&gt;&lt;u&gt;MAXLER&lt;/u&gt;&lt;/span&gt;&lt;/a&gt;&lt;/b&gt;&lt;a href=&quot;https://fitomarket.ru/brands/maxler/dobavki_i_vitaminy/&quot;&gt;&lt;span style=&quot;color: #00a650;&quot;&gt;&lt;u&gt; &lt;/u&gt;&lt;/span&gt;&lt;/a&gt;– выпускает добавки не только в виде обычных капсул и пилюль, но и в виде шипучих таблеток, так же большой ассортимент спортивного питания;&lt;/li&gt;
+&nbsp;&nbsp;&nbsp;&nbsp;&lt;li&gt;&lt;b&gt;&lt;a href=&quot;https://fitomarket.ru/brands/vitamist/&quot;&gt;&lt;span style=&quot;color: #00a650;&quot;&gt;&lt;u&gt;VitaMist&lt;/u&gt;&lt;/span&gt;&lt;/a&gt;&lt;/b&gt;&lt;span style=&quot;color: #00a650;&quot;&gt;&lt;u&gt; &lt;/u&gt;&lt;/span&gt;– фирма специализируется на продукции в форме спреев, это удобный вариант для офиса и для путешествий.&lt;/li&gt;
+&lt;/ul&gt;
+ &lt;br&gt;
+ &lt;img width=&quot;1000&quot; alt=&quot;Высокий контроль качества на рынке биодобавок в США&quot; src=&quot;/upload/medialibrary/237/237100ba83a5fbb6d5222b332285d5d6.jpg&quot; height=&quot;323&quot; title=&quot;Высокий контроль качества на рынке биодобавок в США&quot;&gt;&lt;br&gt;
+&lt;h2&gt;&lt;span style=&quot;color: #00a650;&quot;&gt;Где купить американские витамины и БАД?&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;
+&nbsp;&nbsp;&nbsp;&nbsp; Приобрести эти полезные комплексы можно непосредственно в стране изготовления, однако необходимо учитывать следующие нюансы:
+&lt;/p&gt;
+&lt;ul&gt;
+&nbsp;&nbsp;&nbsp;&nbsp;&lt;li&gt;посылка может потеряться в пути, а вернутся ли деньги клиенту – под большим вопросом;&lt;/li&gt;
+&nbsp;&nbsp;&nbsp;&nbsp;&lt;li&gt;на интернет-заказы из-за границы действуют ограничения: стоимость до 500 евро и вес до 31 кг в месяц. Кажется, что это большие объемы, однако не стоит забывать, что в них входят все полученные посылки из разных интернет-магазинов – одежда, гаджеты и пр.;&lt;/li&gt;
+&nbsp;&nbsp;&nbsp;&nbsp;&lt;li&gt;поскольку каждая страна имеет свое законодательство, то некоторые ингредиенты американских БАД могут входить в список запрещенных к ввозу в Россию и, заказав по незнанию подобный продукт, легко попасть в неприятности.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+&nbsp;&nbsp;&nbsp;&nbsp; Всех этих сложностей можно избежать, если приобретать добавки и витамины американского производства у продавцов на территории России. Тут продукция уже проверена на соответствие нашему законодательству и растаможена. Да и заказывать можно неограниченное количество товара.
+&lt;/p&gt;
+&lt;h2&gt;&lt;span style=&quot;color: #00a650;&quot;&gt;Что предлагает «Фитомаркет Эвалар»&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;
+&nbsp;&nbsp;&nbsp;&nbsp; В нашем интернет-магазине здоровой жизни по приемлемым ценам представлены лучшие американские витамины и БАД. Это товары от перечисленных выше брендов Solgar, NOW, NATURE&#39;S BOUNTY, NATROL, MAXLER, VitaMist и другие.
+&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;
+&nbsp;&nbsp;&nbsp;&nbsp; В КАТАЛОГ &lt;a href=&quot;https://fitomarket.ru/tag/amerikanskie_vitaminy/&quot;&gt;&lt;span style=&quot;color: #00a650;&quot;&gt;&lt;u&gt;ВСЕ ВИТАМИНЫ И ДОБАВКИ ИЗ США&lt;/u&gt;&lt;/span&gt;&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&nbsp;&nbsp;&nbsp;&nbsp; Все товары в «Фитомаркете Эвалар» имеют российские и международные сертификаты &#40;в том числе ISO&#41;, а качество биологически активных добавок также отвечает требованиям стандарта GMP.
+&lt;/p&gt;
+&lt;p&gt;
+ &lt;img width=&quot;1000&quot; alt=&quot;Витамины от гусиной кожи&quot; src=&quot;/upload/medialibrary/b1a/b1ab682399c7f1b2725422a1a9c15bb9.jpg&quot; height=&quot;205&quot; title=&quot;Витамины из Америке, проще всего заказать в России&quot;&gt;&lt;br&gt;
+&lt;/p&gt;
+&lt;p&gt;
+ &lt;br&gt;
+&lt;/p&gt;
+{{/DESC}}
+
+{{PRODUCTS_XML}}
+7b85785d-e401-11e7-b732-005056bfe67d,7b85785e-e401-11e7-b732-005056bfe67d,7b85785f-e401-11e7-b732-005056bfe67d,7b857860-e401-11e7-b732-005056bfe67d,7b857861-e401-11e7-b732-005056bfe67d,7b857862-e401-11e7-b732-005056bfe67d,7b857863-e401-11e7-b732-005056bfe67d,7b857864-e401-11e7-b732-005056bfe67d,81be1c2b-e401-11e7-b732-005056bfe67d,81be1c2c-e401-11e7-b732-005056bfe67d,81be1c2d-e401-11e7-b732-005056bfe67d,81be1c2e-e401-11e7-b732-005056bfe67d,81be1c2f-e401-11e7-b732-005056bfe67d,81be1c30-e401-11e7-b732-005056bfe67d,81be1c32-e401-11e7-b732-005056bfe67d,98d5f308-e4cb-11e7-b732-005056bfe67d,a97146e9-e400-11e7-b732-005056bfe67d,ae2a2e86-fad2-11e7-b734-005056bfe67d,ae2a2e88-fad2-11e7-b734-005056bfe67d,af8aec15-e400-11e7-b732-005056bfe67d,b61bc6ce-e400-11e7-b732-005056bfe67d,e07f8feb-fad3-11e7-b734-005056bfe67d,e07f8fec-fad3-11e7-b734-005056bfe67d,e07f8fed-fad3-11e7-b734-005056bfe67d,e07f8fee-fad3-11e7-b734-005056bfe67d,e07f8fef-fad3-11e7-b734-005056bfe67d,e07f8ff0-fad3-11e7-b734-005056bfe67d,e07f8ff2-fad3-11e7-b734-005056bfe67d,e07f8ff3-fad3-11e7-b734-005056bfe67d,e07f8ff4-fad3-11e7-b734-005056bfe67d,e07f8ff5-fad3-11e7-b734-005056bfe67d,e07f8ff6-fad3-11e7-b734-005056bfe67d,e07f8ff7-fad3-11e7-b734-005056bfe67d,e07f8ff8-fad3-11e7-b734-005056bfe67d,e2336182-2cd7-11e8-b739-005056bfe67d,e68624f3-fad3-11e7-b734-005056bfe67d,e68624f4-fad3-11e7-b734-005056bfe67d,e68624f5-fad3-11e7-b734-005056bfe67d,e68624f6-fad3-11e7-b734-005056bfe67d,e68624f7-fad3-11e7-b734-005056bfe67d,e68624f8-fad3-11e7-b734-005056bfe67d,e68624f9-fad3-11e7-b734-005056bfe67d,e68624fa-fad3-11e7-b734-005056bfe67d,e68624fb-fad3-11e7-b734-005056bfe67d,e68624fc-fad3-11e7-b734-005056bfe67d,e68624fd-fad3-11e7-b734-005056bfe67d,e68624fe-fad3-11e7-b734-005056bfe67d,e68624ff-fad3-11e7-b734-005056bfe67d,e6862500-fad3-11e7-b734-005056bfe67d,e6862501-fad3-11e7-b734-005056bfe67d,e6862502-fad3-11e7-b734-005056bfe67d,e6862503-fad3-11e7-b734-005056bfe67d,ec833057-fad3-11e7-b734-005056bfe67d,ec833059-fad3-11e7-b734-005056bfe67d,ec83305a-fad3-11e7-b734-005056bfe67d,ec83305b-fad3-11e7-b734-005056bfe67d,ec83305c-fad3-11e7-b734-005056bfe67d,ec83305d-fad3-11e7-b734-005056bfe67d,ec83305e-fad3-11e7-b734-005056bfe67d,ec83305f-fad3-11e7-b734-005056bfe67d,ec833060-fad3-11e7-b734-005056bfe67d,ec833061-fad3-11e7-b734-005056bfe67d,ec833062-fad3-11e7-b734-005056bfe67d,ec833063-fad3-11e7-b734-005056bfe67d,ec833064-fad3-11e7-b734-005056bfe67d,ec833065-fad3-11e7-b734-005056bfe67d,ec833066-fad3-11e7-b734-005056bfe67d,f27b771f-fad3-11e7-b734-005056bfe67d,f27b7720-fad3-11e7-b734-005056bfe67d
+{{/PRODUCTS_XML}}

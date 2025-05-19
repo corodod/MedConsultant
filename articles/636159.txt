@@ -1,0 +1,112 @@
+{{XML_ID}}
+636159
+{{/XML_ID}}
+
+{{NAME}}
+Яблочный спас: легкие и полезные блюда из яблок. Рецепты от Фитомаркет.
+{{/NAME}}
+
+{{DESC}}
+&lt;h2&gt;Рецепты для ужина&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt;Курица в яблоках&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;p&gt;Рецепт простой, быстрый, универсальный и максимально диетический. Вам потребуется:&lt;/p&gt;
+&lt;li&gt;Курица &#40;целая тушка&#41;&lt;/li&gt;
+&lt;li&gt;10-14 яблок &#40;лучше отдавать предпочтение кисло-сладким сортам&#41;&lt;/li&gt;
+&lt;li&gt;Лимонный сок 2-3 столовых ложки&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://fitomarket.ru/catalog/zdorovoe_pitanie/masla_sousy_i_spetsii/sol/sol_dlya_melnitsy_estragon_timyan_i_lavanda_200_g_polezzno/&quot;&gt;&lt;span style=&quot;color:#29004e;font-weight:bold; text-decoration: underline;&quot;&gt;Гималайская соль «Эстрагон, тимьян и лаванда»&lt;/span&gt;&lt;/a&gt; от &lt;a href=&quot;https://fitomarket.ru/brands/polezzno/&quot;&gt;&lt;span style=&quot;color:#29004e;font-weight:bold; text-decoration: underline;&quot;&gt;polezzno&lt;/span&gt;&lt;/a&gt; – по вкусу&lt;/li&gt;
+&lt;li&gt;Ряженка или кефир – 4-6 столовых ложек&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://fitomarket.ru/catalog/zdorovoe_pitanie/sakhar_i_sakharozameniteli/siropy/temnyy_nektar_agavy_250_g_royal_forest/&quot;&gt;&lt;span style=&quot;color:#29004e;font-weight:bold; text-decoration: underline;&quot;&gt;Сироп агавы темный или &lt;a href=&quot;https://fitomarket.ru/catalog/zdorovoe_pitanie/sakhar_i_sakharozameniteli/siropy/svetlyy_nektar_agavy_250_g_royal_forest/&quot;&gt;&lt;span style=&quot;color:#29004e;font-weight:bold; text-decoration: underline;&quot;&gt;светлый&lt;/span&lt;/a&gt; от &lt;a href=&quot;https://fitomarket.ru/brands/ufeelgood/&quot;&gt;&lt;span style=&quot;color:#29004e;font-weight:bold; text-decoration: underline;&quot;&gt;Ufeelgood&lt;/span&gt;&lt;/a&gt; или &lt;a href=&quot;https://fitomarket.ru/brands/royal_forest/&quot;&gt;&lt;span style=&quot;color:#29004e;font-weight:bold; text-decoration: underline;&quot;&gt;Royal Forest&lt;/span&gt;&lt;/a&gt; – 2 чайных ложки&lt;/li&gt;
+&lt;li&gt;Подсолнечное масло&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Обмойте курицу, промокните бумажными полотенцами и, сделав проколы по всей тушке, отложите на сухую тарелку.&lt;/p&gt;
+&lt;p&gt;Порежьте яблоки на 4-6 частей, удалите сердцевину и смешайте с лимонным соком.&lt;/p&gt;
+&lt;p&gt;В отдельной ёмкости приготовьте смесь из соли со специями, сметаны и сиропа агавы. При желании можно добавить 1-2 чайных ложки масла. Также вы можете взять свой любимый набор специй.&lt;/p&gt;
+&lt;p&gt;Выложите на противень пергамент, на него слоем – оставшиеся яблоки. Обмажьте курицу соусом для запекания и положите на яблоки спинкой вверх. Запекайте при температуре не менее 180 градусов. Время запекания в разных духовках может варьироваться от 75 до 90 минут. &lt;/p&gt;&lt;br&gt;
+ &lt;br&gt;
+&lt;p&gt;&lt;b&gt;Котлеты с яблоком в духовке&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;p&gt;Очень сочные котлетки, без жарки, хлеба/муки и лишнего жира.&lt;/p&gt;
+&lt;p&gt;Вам понадобится:&lt;/p&gt;
+&lt;li&gt;Фарш из курицы или индейки – 500 гр&lt;/li&gt;
+&lt;li&gt;Яблоки любых сортов – 2 шт &#40;крупные или средне-крупные&#41;&lt;/li&gt;
+&lt;li&gt;1 луковица&lt;/li&gt;
+&lt;li&gt;Любимые специи и приправы – по вкусу&lt;/li&gt;
+&lt;li&gt;1 куриное яйцо&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://fitomarket.ru/catalog/zdorovoe_pitanie/bakaleya/muka/psillium_shelukha_podorozhnika_100_gr_polezzno/&quot;&gt;&lt;span style=&quot;color:#29004e;font-weight:bold; text-decoration: underline;&quot;&gt;Псиллиум&lt;/span&gt;&lt;/a&gt; – 1 ст ложка&lt;/li&gt;
+&lt;li&gt;Ряженка или кефир – 2 ст ложки&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Псиллиум залейте ряженкой или кефиром &#40;можно водой&#41;, размешайте и оставьте набухать.&lt;/p&gt;
+&lt;p&gt;Лук и яблоки очистите. Яблоки потрите на крупной терке, лук мелко порежьте. Добавьте в фарш яйцо и тщательно перемешайте. Добавьте лук и яблоки и снова перемешайте. Следующим этапом введите специи и псиллиум. Дайте смеси отстояться 5-10 минут, за это время разогрейте духовку.&lt;/p&gt;
+&lt;p&gt;В силиконовые формочки для кексиков ложкой положите котлетную смесь так, чтобы она не доставала до краев и поставьте в духовку выпекаться при температуре 150-170 градусов. &lt;/p&gt;
+&lt;p&gt;Время запекания колеблется от 30 до 40 минут и зависит от вашей духовки.&lt;/p&gt;&lt;br&gt;
+ &lt;br&gt;
+
+&lt;h2&gt;Десерты с яблоками&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt;Яблочный зефир без сахара и белков&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;p&gt;Зефир всего из 3 компонентов:&lt;/p&gt;
+&lt;li&gt;Яблочное пюре 500 гр&lt;/li&gt;
+&lt;li&gt;Желатин или &lt;a href=&quot;https://fitomarket.ru/catalog/zdorovoe_pitanie/masla_sousy_i_spetsii/pripravy_i_spetsii/agar_agar_100_gr_orgtium/&quot;&gt;&lt;span style=&quot;color:#29004e;font-weight:bold; text-decoration: underline;&quot;&gt;агар-агар&lt;/span&gt;&lt;/a&gt; от &lt;a href=&quot;https://fitomarket.ru/brands/orgtium/&quot;&gt;&lt;span style=&quot;color:#29004e;font-weight:bold; text-decoration: underline;&quot;&gt;Оргтиум&lt;/span&gt;&lt;/a&gt; 15-20 гр&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://fitomarket.ru/catalog/zdorovoe_pitanie/sakhar_i_sakharozameniteli/drugie_sakharozameniteli/podslastitel_sukraloza_s_inulinom_370_tabletok_milford/&quot;&gt;&lt;span style=&quot;color:#29004e;font-weight:bold; text-decoration: underline;&quot;&gt;Подсластитель&lt;/span&gt;&lt;/a&gt; &lt;a href=&quot;https://fitomarket.ru/brands/milford/&quot;&gt;&lt;span style=&quot;color:#29004e;font-weight:bold; text-decoration: underline;&quot;&gt;Milford&lt;/span&gt;&lt;/a&gt; или &lt;a href=&quot;https://fitomarket.ru/brands/polezzno/&quot;&gt;&lt;span style=&quot;color:#29004e;font-weight:bold; text-decoration: underline;&quot;&gt;polezzno&lt;/span&gt;&lt;/a&gt; &#40;опционально по вкусу&#41;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Замочите предварительно желатин или агар в воде или свежевыжатом апельсиновом соке.&lt;/p&gt;
+&lt;p&gt;Очистите яблоки, порежьте их на мелкие кусочки и выложите на предварительно разогретую, сбрызнутую маслом сковородку. Добавьте 3-5 столовых ложек воды, перемешайте и тушите на среднем огне, пока яблоки не начнут размягчаться. В зависимости от сорта яблок и желаемой консистенции пюре и готового зефира, количество воды можно увеличить до 200 мл. &lt;/p&gt;
+&lt;p&gt;Добавьте подсластитель &#40;вместо него можно использовать также мёд или сироп агавы – 1-2 чайных ложки&#41;, размешайте и снимите с огня.&lt;/p&gt;
+&lt;p&gt;Дайте яблочному пюре немного остыть и пробейте блендером до однородности.&lt;/p&gt;
+&lt;p&gt;Выложите пюре в миску, добавьте желатин и размешайте. Разогрейте смесь на водяной бане, пока желатин не растворится.&lt;/p&gt;
+&lt;p&gt;С помощью миксера взбивайте массу, пока она не поднимется и не побелеет.&lt;/p&gt;
+&lt;p&gt;Выложите будущий зефир в любую удобную ёмкость, предварительно выстлав её пищевой пленкой, и отправьте в холодильник на 4-6 часов до полного застывания.&lt;/p&gt;&lt;br&gt;
+ &lt;br&gt;
+&lt;p&gt;&lt;b&gt;Яблочный ПП-торт с муссом кокос-матча&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Этот торт без яиц, муки и выпечки поражает изысканным сочетанием вкусов и порадует не только любителей яблок.&lt;/p&gt;
+&lt;ul&gt;
+&lt;p&gt;Для приготовления основы вам понадобится:&lt;/p&gt;
+&lt;li&gt;&lt;a href=&quot;https://fitomarket.ru/catalog/zdorovoe_pitanie/poleznyy_zavtrak/granola/granola_apelsin_250_g_polezzno/&quot;&gt;&lt;span style=&quot;color:#29004e;font-weight:bold; text-decoration: underline;&quot;&gt;Гранола polezzno&lt;/span&gt;&lt;/a&gt; 150 гр &lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://fitomarket.ru/catalog/zdorovoe_pitanie/bakaleya/semena/miks_iz_semyan_len_temnyy_i_svetlyy_kunzhut_temnyy_i_svetlyy_tykvennye_i_podsolnukha_semechki_200_gr/&quot;&gt;&lt;span style=&quot;color:#29004e;font-weight:bold; text-decoration: underline;&quot;&gt;Микс из семян Оргтиум&lt;/span&gt;&lt;/a&gt; – 30 гр&lt;/li&gt;
+&lt;li&gt;Грецкие орехи, миндаль, фундук – 40 гр&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://fitomarket.ru/catalog/zdorovoe_pitanie/sladosti_i_sneki/shokolad_1/shokolad_gorkiy_slaysakh_100_g_orgtium_plyus/&quot;&gt;&lt;span style=&quot;color:#29004e;font-weight:bold; text-decoration: underline;&quot;&gt;Шоколад горький – в слайсах&lt;/span&gt;&lt;/a&gt; от &lt;a href=&quot;https://fitomarket.ru/brands/orgtium/&quot;&gt;&lt;span style=&quot;color:#29004e;font-weight:bold; text-decoration: underline;&quot;&gt;«Оргтиум»&lt;/span&gt;&lt;/a&gt; или в &lt;a href=&quot;https://fitomarket.ru/catalog/zdorovoe_pitanie/sladosti_i_sneki/shokolad_1/gorkiy_shokolad_s_droblenymi_zernami_kakao_plitochnyy_100_g_alce_nero_/&quot;&gt;&lt;span style=&quot;color:#29004e;font-weight:bold; text-decoration: underline;&quot;&gt;плитке&lt;/span&gt;&lt;/a&gt; от &lt;a href=&quot;https://fitomarket.ru/brands/alce_nero/&quot;&gt;&lt;span style=&quot;color:#29004e;font-weight:bold; text-decoration: underline;&quot;&gt;Alce Nero&lt;/span&gt;&lt;/a&gt; – 90 гр&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://fitomarket.ru/catalog/zdorovoe_pitanie/masla_sousy_i_spetsii/kokosovoe_maslo/rafinirovannoe_100_kokosovoe_maslo_600_ml_roi_thai_/&quot;&gt;&lt;span style=&quot;color:#29004e;font-weight:bold; text-decoration: underline;&quot;&gt;Кокосовое масло&lt;/span&gt;&lt;/a&gt; &lt;a href=&quot;https://fitomarket.ru/brands/roi_thai/&quot;&gt;&lt;span style=&quot;color:#29004e;font-weight:bold; text-decoration: underline;&quot;&gt;Roi Thai&lt;/span&gt;&lt;/a&gt; – 40 гр&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://fitomarket.ru/catalog/zdorovoe_pitanie/sakhar_i_sakharozameniteli/sakharozamenitel_1_orgtium/&quot;&gt;&lt;span style=&quot;color:#29004e;font-weight:bold; text-decoration: underline;&quot;&gt;Подсластитель Оргтиум&lt;/span&gt;&lt;/a&gt; по вкусу &#40;опционально&#41;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Смешайте все сухие компоненты.&lt;/p&gt;
+&lt;p&gt;Растопите шоколад на водяной бане и добавьте в него масло, перемешайте до однородности. Желательно сразу выбрать глубокую плошку, чтобы в неё вошла смесь из гранолы, семян и орехов. Соедините растопленный шоколад и сухие компоненты, тщательно перемешайте, добавьте подсластитель по вкусу и выложите в форму. Тщательно уплотните и разровняйте смесь.&lt;/p&gt;
+&lt;p&gt;Для торта подойдет форма диаметром 18-20 см, перед началом работы её нужно поставить на пергамент. Края можно сразу проложить ацетатной пленкой.&lt;/p&gt;&lt;br&gt;
+ &lt;br&gt;
+&lt;p&gt;После того, как вы положите основу в форму, уберите всё в холодильник.&lt;/p&gt;
+&lt;ul&gt;
+&lt;p&gt;Для приготовления яблочной начинки вам понадобится:&lt;/p&gt;
+&lt;li&gt;Около 400 гр чищенных яблок&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://fitomarket.ru/catalog/zdorovoe_pitanie/sakhar_i_sakharozameniteli/sakhar/kokosovyy_organicheskiy_sakhar_200_gr_fitfeel/&quot;&gt;&lt;span style=&quot;color:#29004e;font-weight:bold; text-decoration: underline;&quot;&gt;Кокосовый сахар FitParad&lt;/span&gt;&lt;/a&gt; – 50 гр&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://fitomarket.ru/catalog/zdorovoe_pitanie/masla_sousy_i_spetsii/kokosovoe_maslo/rafinirovannoe_100_kokosovoe_maslo_600_ml_roi_thai_/&quot;&gt;&lt;span style=&quot;color:#29004e;font-weight:bold; text-decoration: underline;&quot;&gt;Кокосовое масло Roi Thai&lt;/span&gt;&lt;/a&gt; – 30 гр&lt;/li&gt;
+&lt;li&gt;2 ст ложки лимонного сока&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Яблоки нужно очистить от кожуры, порезать небольшими кусочками и добавить лимонный сок, всё тщательно перемешать.&lt;/p&gt;
+&lt;p&gt;На сковородке растопите масло, всыпьте в него сахар и также тщательно перемешайте до однородности. Добавьте яблоки и смешайте яблоки и получившуюся кокосовую карамель. &lt;/p&gt;
+&lt;p&gt;Тушите яблоки, пока они не станут мягкими. После этого откиньте яблоки на сито и дайте стечь соку с карамелью.&lt;/p&gt;
+&lt;p&gt;К этому сочетанию так и просится корица. Вы можете добавить немного &lt;a href=&quot;https://fitomarket.ru/catalog/zdorovoe_pitanie/masla_sousy_i_spetsii/pripravy_i_spetsii/koritsa_tseylonskaya_molotaya_50_g_polezzno/&quot;&gt;&lt;span style=&quot;color:#29004e;font-weight:bold; text-decoration: underline;&quot;&gt;цейлонской молотой корицы от polezzno&lt;/span&gt;&lt;/a&gt;. Но и без неё вкусовое сочетание будет очень насыщенным.&lt;/p&gt;
+&lt;p&gt;Теперь можно приступать к приготовлению мусса.&lt;/p&gt;
+&lt;ul&gt;&lt;br&gt;
+ &lt;br&gt;
+&lt;p&gt;Для мусса вам понадобится:&lt;/p&gt;
+&lt;li&gt;300 гр мягкого творога&lt;/li&gt;
+&lt;li&gt;200 гр &lt;a href=&quot;https://fitomarket.ru/catalog/zdorovoe_pitanie/napitki_2/kokosovoe_moloko_i_kokosovaya_voda/kokosovye_slivki_250_ml_chaokoh/&quot;&gt;&lt;span style=&quot;color:#29004e;font-weight:bold; text-decoration: underline;&quot;&gt;кокосовых сливок&lt;/span&gt;&lt;/a&gt; &lt;a href=&quot;https://fitomarket.ru/brands/chaokoh/&quot;&gt;&lt;span style=&quot;color:#29004e;font-weight:bold; text-decoration: underline;&quot;&gt;Chaokoh&lt;/span&gt;&lt;/a&gt; или &lt;a href=&quot;https://fitomarket.ru/brands/ahya/&quot;&gt;&lt;span style=&quot;color:#29004e;font-weight:bold; text-decoration: underline;&quot;&gt;AHYA&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;200 гр &lt;a href=&quot;https://fitomarket.ru/catalog/zdorovoe_pitanie/sladosti_i_sneki/shokolad_1/shokolad_belyy_slaysakh_100_g_orgtium_plyus/&quot;&gt;&lt;span style=&quot;color:#29004e;font-weight:bold; text-decoration: underline;&quot;&gt;белого шоколада в слайсах Оргтиум&lt;/span&gt;&lt;/a&gt;&lt;/li&gt; 
+&lt;li&gt;2 пакетика &lt;a href=&quot;https://fitomarket.ru/catalog/zdorovoe_pitanie/napitki_2/matcha/napitok_rastvorimyy_matcha_latte_10kh16_gr_truslen/&quot;&gt;&lt;span style=&quot;color:#29004e;font-weight:bold; text-decoration: underline;&quot;&gt;матча латте&lt;/span&gt;&lt;/a&gt; от &lt;a href=&quot;https://fitomarket.ru/brands/truslen/&quot;&gt;&lt;span style=&quot;color:#29004e;font-weight:bold; text-decoration: underline;&quot;&gt;Truslen&lt;/span&gt;&lt;/a&gt; или &lt;a href=&quot;https://fitomarket.ru/brands/gold_kili/&quot;&gt;&lt;span style=&quot;color:#29004e;font-weight:bold; text-decoration: underline;&quot;&gt;Gold Kili&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;7 гр желатина или &lt;a href=&quot;https://fitomarket.ru/catalog/zdorovoe_pitanie/masla_sousy_i_spetsii/pripravy_i_spetsii/agar_agar_100_gr_orgtium/&quot;&gt;&lt;span style=&quot;color:#29004e;font-weight:bold; text-decoration: underline;&quot;&gt;агар-агара от Оргтиум&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;В творог добавьте 150 мл кокосовых сливок и перемешайте до однородности с помощью миксера.&lt;/p&gt;
+&lt;p&gt;Растопите шоколад на водяной бане или в микроволновке, дайте ему остыть, чтобы он был не слишком горячим, и введите в массу из творога и сливок. Тщательно перемешайте лопаточкой до однородности.&lt;/p&gt;
+&lt;p&gt;В оставшихся 50 мл сливок разведите матчу-латте, добавляя сухой продукт в сливки постепенно и тщательно всё промешивая, затем влейте этот концентрат в уже почти готовый мусс.&lt;/p&gt;
+&lt;p&gt;Последним этапом добавляем желатин и снова всё тщательно вымешиваем до однородности.&lt;/p&gt;
+&lt;p&gt;Дальше нужно достать кольцо с основой для торта и вылить около половины мусса. После этого мусс отправляем застывать на 10-15 минут в морозильник.&lt;/p&gt;
+&lt;p&gt;Достаём, выкладываем яблоки и заливаем сверху оставшейся частью мусса. Собранный торт нужно снова отправить застывать. Но на этот раз – в холодильник и не менее, чем на 4 часа, лучше на ночь.&lt;/p&gt;
+&lt;p&gt;Готовый торт можно сверху украсить желе из яблочного сока и карамели, а можно просто выложить красиво кокосовые чипсы и орешки.&lt;/p&gt;&lt;br&gt;
+ IN_TEXT_GOODS_6&lt;br&gt;
+&lt;p&gt;Кстати, эту яблочно-кокосовую карамель можно также использовать как топинг для оладьев и другой выпечки, рецепты которой мы давали в &lt;a href=&quot;https://fitomarket.ru/blog/novosti/poleznye_retsepty_s_yablokami_na_zavtrak_obed_uzhin_i_desert/?lang=ru&quot;&gt;&lt;span style=&quot;color:#29004e;font-weight:bold; text-decoration: underline;&quot;&gt;предыдущей статье&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;img width=&quot;1000&quot; alt=&quot;Happybirthday.png&quot; src=&quot;/upload/medialibrary/aa6/п.jpg&quot;&nbsp;&nbsp;title=&quot;Happybirthday.png&quot;&gt;
+{{/DESC}}
+
+{{PRODUCTS_XML}}
+09838ba9-b10b-11ea-b786-005056bfe67d,26329690-bdef-11eb-b789-005056bfe67d,34788f0f-73fa-11ea-b786-005056bfe67d,34788f2c-73fa-11ea-b786-005056bfe67d,356c3a0f-596d-11ea-b786-005056bfe67d,440ca1fa-1677-11ea-b77f-005056bfe67d,440ca20e-1677-11ea-b77f-005056bfe67d,44cbd3be-6b6c-11eb-b789-005056bfe67d,44cbd3bf-6b6c-11eb-b789-005056bfe67d,44cbd3c0-6b6c-11eb-b789-005056bfe67d,4a2b6967-d7c5-11eb-b789-005056bfe67d,506ffb10-d7c5-11eb-b789-005056bfe67d,54fb4c87-b852-11eb-b789-005056bfe67d,54fb4c89-b852-11eb-b789-005056bfe67d,5d93eef9-ed5d-11e8-b74e-005056bfe67d,5d93eefa-ed5d-11e8-b74e-005056bfe67d,5d93ef05-ed5d-11e8-b74e-005056bfe67d,5e7eb21d-9da9-11e9-b76b-005056bfe67d,63a66e02-ed5d-11e8-b74e-005056bfe67d,63a66e0d-ed5d-11e8-b74e-005056bfe67d,69aa9ef2-ed5d-11e8-b74e-005056bfe67d,69aa9ef3-ed5d-11e8-b74e-005056bfe67d,6bad65b5-c58d-11ea-b786-005056bfe67d,a95c61f1-3b88-11ec-b796-005056bfe67d,a95c61f9-3b88-11ec-b796-005056bfe67d,a95c61fb-3b88-11ec-b796-005056bfe67d,a95c61fd-3b88-11ec-b796-005056bfe67d,af8919c5-3b88-11ec-b796-005056bfe67d,af8919c7-3b88-11ec-b796-005056bfe67d,af8919c9-3b88-11ec-b796-005056bfe67d,af8919ca-3b88-11ec-b796-005056bfe67d,ce3a5f78-c812-11eb-b789-005056bfe67d,dfafa4a3-caa6-11e7-b732-005056bfe67d,dfafa4a7-caa6-11e7-b732-005056bfe67d,e9e4232a-fad1-11e7-b734-005056bfe67d,f1312447-baf3-11e7-b732-005056bfe67d
+{{/PRODUCTS_XML}}

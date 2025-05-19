@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Медицинский помощник</title>
+    <style>
+        body { font-family: sans-serif; padding: 20px; }
+        #chat { height: 300px; border: 1px solid #ccc; overflow-y: scroll; padding: 10px; margin-bottom: 10px; }
+        .msg { margin: 5px 0; }
+        input, button { padding: 10px; font-size: 16px; }
+    </style>
+</head>
+<body>
+    <h2>Медицинский помощник</h2>
+    <div id="chat"></div>
+    <input type="text" id="input" placeholder="Введите ваш вопрос..." style="width: 80%;">
+    <button onclick="sendQuery()">Отправить</button>
+
+    <script>
+        async function sendQuery() {
+            const input = document.getElementById("input");
+            const chat = document.getElementById("chat");
+            const question = input.value.trim();
+            if (!question) return;
+
+            chat.innerHTML += `<div class="msg"><strong>Вы:</strong> ${question}</div>`;
+            input.value = "";
+
+            const res = await fetch("http://localhost:8000/query", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({ query: question })
+            });
+
+            const data = await res.json();
+            chat.innerHTML += `<div class="msg"><strong>Ответ:</strong> ${data.response}</div>`;
+            chat.scrollTop = chat.scrollHeight;
+        }
+
+        // Enter для отправки
+        document.getElementById("input").addEventListener("keypress", function(e) {
+            if (e.key === "Enter") sendQuery();
+        });
+    </script>
+</body>
+</html>
