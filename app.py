@@ -60,8 +60,7 @@ async def query(request: Request):
 
     # Шаг 2: Извлекаем релевантный фрагмент из {{DESC}}
     context = combined_context
-    question_for_qa = "Какие вещества используются для получения ароматизатора клюквы, идентичного натуральному?"
-
+    question_for_qa = user_query
     print(">>> QA-пайп начинается")
     result = qa_pipe(question=question_for_qa, context=context)
     print(f"QA pipe результат: {result}")
