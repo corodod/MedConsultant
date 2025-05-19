@@ -7,6 +7,9 @@ import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity
 import torch
 from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline
+from transformers import pipeline as question_answering_pipeline
+from transformers import pipeline
+
 
 app = FastAPI()
 # app.mount("/static", StaticFiles(directory="."), name="static")
@@ -22,30 +25,18 @@ filenames = [a['filename'] for a in articles_data]
 # Модель для эмбеддингов
 model_emb = SentenceTransformer('cointegrated/rubert-tiny2')
 
-# LLM модель (замените на вашу)
-# tokenizer = AutoTokenizer.from_pretrained("Qwen/Qwen2-7B-Instruct")
-# model = AutoModelForCausalLM.from_pretrained("Qwen/Qwen2-7B-Instruct")
-
 # слабая быстрая
 tokenizer = AutoTokenizer.from_pretrained("TinyLlama/TinyLlama-1.1B-Chat-v1.0")
 model = AutoModelForCausalLM.from_pretrained("TinyLlama/TinyLlama-1.1B-Chat-v1.0")
 
-# tokenizer = AutoTokenizer.from_pretrained("NousResearch/Hermes-2-Pro-Mistral-7B")
-# model = AutoModelForCausalLM.from_pretrained(
-#     "NousResearch/Hermes-2-Pro-Mistral-7B",
-#     torch_dtype=torch.float16,
-#     device_map="auto"
-# )
 
-# LLM модель: Phi-3-mini
-# tokenizer = AutoTokenizer.from_pretrained("microsoft/Phi-3-mini-4k-instruct")
-# model = AutoModelForCausalLM.from_pretrained(
-#     "microsoft/Phi-3-mini-4k-instruct",
-#     torch_dtype=torch.float16,
-#     device_map="auto"
-# )
-
-
+# Модель для извлечения ключевого фрагмента (extractive QA)для извлечения фрагмента из {{DESC}}
+# qa_pipe = question_answering_pipeline("question-answering", model="cointegrated/rubert-tiny-qa")
+qa_pipe = pipeline(
+    "question-answering",
+    model="abletobetable/distilbert-ru-qa",
+    tokenizer="distilbert-base-multilingual-cased"
+)
 
 pipe = pipeline("text-generation", model=model, tokenizer=tokenizer)
 
@@ -54,30 +45,41 @@ async def query(request: Request):
     data = await request.json()
     user_query = data.get("query", "")
 
-    # Получаем эмбеддинг запроса
+    # Шаг 1: Находим ближайшую статью
     query_emb = model_emb.encode(["query: " + user_query])
-
-    # Сравниваем с нашими статьями
     similarities = cosine_similarity(query_emb, embeddings).flatten()
     best_idx = np.argmax(similarities)
     best_article = articles_data[best_idx]
-    
-    # Добавляем описание статьи к вопросу
-    # extended_query = f"{user_query}\n\nКонтекст:\n{best_article['desc']}"
-    # Ограничьте контекст до 2000 символов или токенов
-    MAX_CONTEXT_LENGTH = 2000
-    context = best_article['desc'][:MAX_CONTEXT_LENGTH]
 
-    # extended_query = f"На основе следующего контекста ответь на вопрос:\n{context}\n\nВопрос: {user_query}"
+    print(f"Выбранная статья: {best_article['name']}")
 
+    # Шаг 2: Извлекаем релевантный фрагмент из {{DESC}}
+    context = best_article['desc']
+    question_for_qa = "Какие вещества используются для получения ароматизатора клюквы, идентичного натуральному?"
+
+    result = qa_pipe(question=question_for_qa, context=context)
+    print(f"QA pipe результат: {result}")
+
+    answer_start = result["start"]
+    answer_end = result["end"] + 150  # Добавляем окружение
+    relevant_section = context[max(0, answer_start - 100):min(len(context), answer_end)]
+    print(f"\n=== Контекст для ответа ===\n{relevant_section}\n")
+
+
+    # Шаг 3: Формируем prompt для LLM
     extended_query = f"""
-    <|system|>: Отвечай на вопросы строго на основе предоставленного контекста.
-    <|context|>: {context}
-    <|question|>: {user_query}
-    <|answer|>:
-    """.strip()
+<|system|>: Отвечай на вопросы строго на основе предоставленного контекста.
+<|context|>: {relevant_section}
+<|question|>: {user_query}
+<|answer|>:
+""".strip()
 
-    # Генерируем ответ
-    response = pipe(extended_query, max_new_tokens=200)[0]['generated_text']
+    # Шаг 4: Генерируем ответ
+    response = pipe(
+        extended_query,
+        max_new_tokens=200,
+        truncation=True,
+        return_full_text=False
+    )[0]['generated_text']
 
-    return {"response": response}
+    return {"response": response.strip()}
