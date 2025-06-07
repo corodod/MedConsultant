@@ -36,18 +36,6 @@ model = AutoModelForCausalLM.from_pretrained("TinyLlama/TinyLlama-1.1B-Chat-v1.0
 #     torch_dtype=torch.float16,
 #     device_map="auto"
 # )
-# pipe = TextGenerationPipeline(model=model, tokenizer=tokenizer)
-# tokenizer = AutoTokenizer.from_pretrained("tiiuae/falcon-7b-instruct")
-# model = AutoModelForCausalLM.from_pretrained(
-#     "tiiuae/falcon-7b-instruct",
-#     torch_dtype=torch.float16,
-#     device_map="auto"
-# )
-
-
-
-
-
 
 
 # Модель для извлечения ключевого фрагмента (extractive QA)для извлечения фрагмента из {{DESC}}
@@ -65,7 +53,7 @@ async def query(request: Request):
     data = await request.json()
     user_query = data.get("query", "")
 
-    # Шаг 1: Находим ближайшую статью
+    # Шаг 1: Находим ближайшие статью
     query_emb = model_emb.encode(["query: " + user_query])
     similarities = cosine_similarity(query_emb, embeddings).flatten()
     top_k = 5
@@ -73,7 +61,7 @@ async def query(request: Request):
     top_articles = [articles_data[idx] for idx in top_k_indices]
     combined_context = "\n\n".join([a["desc"] for a in top_articles])
 
-    print("Топ-3 выбранные статьи:")
+    print("Топ-5 выбранных статей:")
     for idx, article in enumerate(top_articles, 1):
         print(f"{idx}. {article['name']}")
 
@@ -86,7 +74,7 @@ async def query(request: Request):
     print(f"QA pipe результат: {result}")
 
     answer_start = result["start"]
-    answer_end = result["end"] + 150  # Добавляем окружение
+    answer_end = result["end"] + 100  # Добавляем окружение
     relevant_section = context[max(0, answer_start - 100):min(len(context), answer_end)]
     MAX_CONTEXT_LENGTH = 1000
     # relevant_section = relevant_section[:MAX_CONTEXT_LENGTH]
@@ -96,8 +84,7 @@ async def query(request: Request):
 
     # Шаг 3: Формируем prompt для LLM
     extended_query = f"""
-Ты — краткий и точный ассистент. Ответь строго по фактам из контекста ниже.
-
+Ответь строго по фактам из контекста ниже.
 Контекст:
 {relevant_section}
 
@@ -107,6 +94,7 @@ async def query(request: Request):
 Ответ:
 """.strip()
 
+    print(extended_query)
     print(">>> Начинается генерация ответа")
     # Шаг 4: Генерируем ответ
     response = pipe(
