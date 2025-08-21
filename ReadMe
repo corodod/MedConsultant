@@ -1,7 +1,11 @@
+Пример запроса:
 что используют чтобы получить ароматизатор клюквы, идентичный натуральному
 
-python3 parse_articles.py
+Запуск проекта:
 
+python3 parse_articles.py
 uvicorn app:app --reload
 
+
+Доступен по:
 http://localhost:8000/static/index.html
