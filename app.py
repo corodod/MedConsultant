@@ -1,16 +1,11 @@
 from fastapi import FastAPI, Request
-from fastapi.responses import HTMLResponse
 from fastapi.staticfiles import StaticFiles
-from sentence_transformers import SentenceTransformer
 import pickle
 import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity
-import torch
-from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline
-from transformers import pipeline as question_answering_pipeline
+from transformers import AutoTokenizer, AutoModelForCausalLM
 from transformers import pipeline
 from sentence_transformers import SentenceTransformer
-from transformers import TextGenerationPipeline
 
 app = FastAPI()
 app.mount("/static", StaticFiles(directory="templates"), name="static")
@@ -21,8 +16,6 @@ with open('vectors.pkl', 'rb') as f:
 
 embeddings = np.array([a['embedding'] for a in articles_data])
 filenames = [a['filename'] for a in articles_data]
-
-# Модель для эмбеддингов
 model_emb = SentenceTransformer('sentence-transformers/paraphrase-multilingual-mpnet-base-v2')
 
 # слабая быстрая
@@ -38,7 +31,7 @@ model = AutoModelForCausalLM.from_pretrained("TinyLlama/TinyLlama-1.1B-Chat-v1.0
 # )
 
 
-# Модель для извлечения ключевого фрагмента (extractive QA)для извлечения фрагмента из {{DESC}}
+# Модель для extractive QA из {{DESC}}
 qa_pipe = pipeline(
     "question-answering",
     model="abletobetable/distilbert-ru-qa",
@@ -53,11 +46,11 @@ async def query(request: Request):
     data = await request.json()
     user_query = data.get("query", "")
 
-    # Шаг 1: Находим ближайшие статью
+    # находим ближайшие статью
     query_emb = model_emb.encode(["query: " + user_query])
     similarities = cosine_similarity(query_emb, embeddings).flatten()
     top_k = 5
-    top_k_indices = similarities.argsort()[-top_k:][::-1]  # Топ-3 по убыванию
+    top_k_indices = similarities.argsort()[-top_k:][::-1]
     top_articles = [articles_data[idx] for idx in top_k_indices]
     combined_context = "\n\n".join([a["desc"] for a in top_articles])
 
@@ -66,7 +59,7 @@ async def query(request: Request):
         print(f"{idx}. {article['name']}")
 
 
-    # Шаг 2: Извлекаем релевантный фрагмент из {{DESC}}
+    # извлекаем релевантный фрагмент из {{DESC}}
     context = combined_context
     question_for_qa = user_query
     print(">>> QA-пайп начинается")
@@ -74,15 +67,14 @@ async def query(request: Request):
     print(f"QA pipe результат: {result}")
 
     answer_start = result["start"]
-    answer_end = result["end"] + 100  # Добавляем окружение
+    answer_end = result["end"] + 100  # добавляем окружение
     relevant_section = context[max(0, answer_start - 100):min(len(context), answer_end)]
-    MAX_CONTEXT_LENGTH = 1000
     # relevant_section = relevant_section[:MAX_CONTEXT_LENGTH]
     relevant_section = truncate_to_token_limit(relevant_section, tokenizer, max_tokens=768)
     print(f"\n=== Контекст для ответа ===\n{relevant_section}\n")
 
 
-    # Шаг 3: Формируем prompt для LLM
+    # формируем prompt для LLM
     extended_query = f"""
 Ответь строго по фактам из контекста ниже.
 Контекст:
